@@ -7,4 +7,4 @@
   <img src="https://img.shields.io/badge/Styled_components-DB7093?logo=StyledComponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
 </div>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
