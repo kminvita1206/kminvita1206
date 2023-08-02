@@ -10,5 +10,5 @@
 
 <h2>Tool</h2>
 <div>
-  <img src="https://img.shields.io/badge/Github?logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?logo=GitHub&logoColor=white"/>
 </div>
